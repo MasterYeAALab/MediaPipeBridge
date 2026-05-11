@@ -1,4 +1,13 @@
-# MediaPipe Bridge
+Metadata-Version: 2.1
+Name: ndi-mediapipe-bridge
+Version: 0.1.0
+Summary: Cross-platform GUI bridge for camera/NDI input, MediaPipe tracking, OSC data, and NDI video output.
+Requires-Python: >=3.9,<3.13
+Description-Content-Type: text/markdown
+Provides-Extra: ndi
+Provides-Extra: dev
+
+# NDI MediaPipe Bridge
 
 跨平台的桌面端桥接应用，提供以下功能：
 
@@ -37,7 +46,7 @@
 
 ```bash
 # 1. 进入项目根目录
-cd "你的项目路径/mediapipe-bridge"
+cd "你的项目路径/ndi-mediapipe-bridge"
 
 # 2. 创建一个虚拟环境
 python3 -m venv .venv
@@ -64,7 +73,7 @@ python -m pip install ".[ndi]"
 source .venv/bin/activate
 
 # 运行程序
-python -m mediapipe_bridge
+python -m ndi_mediapipe_bridge
 ```
 
 ## 操作指南

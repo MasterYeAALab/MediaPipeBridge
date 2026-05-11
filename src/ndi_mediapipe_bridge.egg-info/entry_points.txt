@@ -1,0 +1,2 @@
+[console_scripts]
+ndi-mediapipe-bridge = ndi_mediapipe_bridge.app:main

@@ -1,0 +1,39 @@
+[build-system]
+requires = ["setuptools>=59,<64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mediapipe-bridge"
+version = "0.1.0"
+description = "Cross-platform GUI bridge for camera/NDI input, MediaPipe tracking, OSC data, and NDI video output."
+readme = "README.md"
+requires-python = ">=3.9,<3.13"
+dependencies = [
+  "numpy>=1.26,<2",
+  "opencv-contrib-python>=4.9,<4.12",
+  "mediapipe==0.10.9",
+  "python-osc>=1.8",
+  "PySide6>=6.6",
+]
+
+[project.optional-dependencies]
+ndi = [
+  "cyndilib>=0.0.9,<0.2",
+]
+dev = [
+  "pytest>=8",
+  "ruff>=0.6",
+]
+
+[project.scripts]
+mediapipe-bridge = "mediapipe_bridge.app:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
