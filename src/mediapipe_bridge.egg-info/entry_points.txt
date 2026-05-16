@@ -1,0 +1,2 @@
+[console_scripts]
+mediapipe-bridge = mediapipe_bridge.app:main

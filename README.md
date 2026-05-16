@@ -15,9 +15,9 @@
 
 支持在界面中随时开关的 MediaPipe 功能模块：
 
-- **Pose**: 身体骨骼追踪
-- **Hands**: 手部追踪及左右手识别
-- **Face Mesh**: 468 点面部网格追踪
+- **Pose**: 身体骨骼追踪（当前支持单人精细追踪，数据结构已兼容多人输出）
+- **Hands**: 手部追踪及左右手识别（支持同时追踪多达 **4** 只手）
+- **Face Mesh**: 面部网格追踪（支持同时追踪多达 **4** 张脸）
 - **Face Detection**: 人脸检测
 - **Segmentation**: 实时自拍抠像（勾选此项且开启 NDI 画面输出时，NDI 画面将带有 Alpha 透明通道的纯净背景）
 - **性能及画质优化选项**: 
@@ -67,6 +67,7 @@ source .venv/bin/activate
 python -m mediapipe_bridge
 ```
 
+
 ## 操作指南
 
 1. **输入设置 (Input)**：在 `Mode` 中选择 `Camera`（本地摄像头）或 `NDI`（网络输入源）。
@@ -83,3 +84,4 @@ python -m mediapipe_bridge
 
 请查阅 [docs/OSC.md](docs/OSC.md) 获取详细的路径地址和数据格式说明。
 ![]()
+

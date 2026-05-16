@@ -1,0 +1,2595 @@
+([('NDIMediaPipeBridge',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/build/NDIMediaPipeBridge/NDIMediaPipeBridge',
+   'EXECUTABLE'),
+  ('PIL/.dylibs/libXau.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libXau.6.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libavif.16.3.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libavif.16.3.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libjpeg.62.4.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libjpeg.62.4.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/liblcms2.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/liblcms2.2.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/liblzma.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/liblzma.5.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libopenjp2.2.5.3.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libopenjp2.2.5.3.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libsharpyuv.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libsharpyuv.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libtiff.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libtiff.6.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebp.7.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libwebp.7.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebpdemux.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libwebpdemux.2.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libwebpmux.3.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libwebpmux.3.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libxcb.1.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libxcb.1.1.0.dylib',
+   'BINARY'),
+  ('PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   'BINARY'),
+  ('PIL/_avif.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_avif.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imaging.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_imaging.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingcms.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_imagingcms.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingmath.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_imagingmath.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PIL/_imagingtk.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_imagingtk.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PIL/_webp.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PIL/_webp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('PySide6/Qt/lib/QtCore.framework/QtCore',
+   'Versions/Current/QtCore',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtCore.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtCore.framework/Versions/A/QtCore',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtCore.framework/Versions/A/QtCore',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtCore.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtCore.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtCore.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtDBus.framework/QtDBus',
+   'Versions/Current/QtDBus',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtDBus.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtDBus.framework/Versions/A/QtDBus',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtDBus.framework/Versions/A/QtDBus',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtDBus.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtDBus.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtDBus.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtGui.framework/QtGui', 'Versions/Current/QtGui', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtGui.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtGui.framework/Versions/A/QtGui',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtGui.framework/Versions/A/QtGui',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtGui.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtGui.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtGui.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtNetwork.framework/QtNetwork',
+   'Versions/Current/QtNetwork',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtNetwork.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtNetwork.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtNetwork.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtNetwork.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtOpenGL.framework/QtOpenGL',
+   'Versions/Current/QtOpenGL',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtOpenGL.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtOpenGL.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtOpenGL.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtOpenGL.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtPdf.framework/QtPdf', 'Versions/Current/QtPdf', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtPdf.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtPdf.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtPdf.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtPdf.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtQml.framework/QtQml', 'Versions/Current/QtQml', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtQml.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQml.framework/Versions/A/QtQml',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQml.framework/Versions/A/QtQml',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQml.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQml.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtQml.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/QtQmlMeta',
+   'Versions/Current/QtQmlMeta',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtQmlMeta.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlModels.framework/QtQmlModels',
+   'Versions/Current/QtQmlModels',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlModels.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQmlModels.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlModels.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtQmlModels.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlWorkerScript.framework/QtQmlWorkerScript',
+   'Versions/Current/QtQmlWorkerScript',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlWorkerScript.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/Current',
+   'A',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQuick.framework/QtQuick',
+   'Versions/Current/QtQuick',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQuick.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtQuick.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtQuick.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtQuick.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtSvg.framework/QtSvg', 'Versions/Current/QtSvg', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtSvg.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtSvg.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtSvg.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtSvg.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/QtVirtualKeyboard',
+   'Versions/Current/QtVirtualKeyboard',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/Current',
+   'A',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/QtVirtualKeyboardQml',
+   'Versions/Current/QtVirtualKeyboardQml',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/Current',
+   'A',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtWidgets.framework/QtWidgets',
+   'Versions/Current/QtWidgets',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtWidgets.framework/Resources',
+   'Versions/Current/Resources',
+   'SYMLINK'),
+  ('PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'BINARY'),
+  ('PySide6/Qt/lib/QtWidgets.framework/Versions/A/Resources/Info.plist',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/lib/QtWidgets.framework/Versions/A/Resources/Info.plist',
+   'DATA'),
+  ('PySide6/Qt/lib/QtWidgets.framework/Versions/Current', 'A', 'SYMLINK'),
+  ('PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/generic/libqtuiotouchplugin.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/iconengines/libqsvgicon.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqgif.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqgif.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqicns.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqicns.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqico.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqico.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqjpeg.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqmacheif.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqmacjp2.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqpdf.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqpdf.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqsvg.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqsvg.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqtga.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqtga.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqtiff.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqtiff.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqwbmp.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/imageformats/libqwebp.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/imageformats/libqwebp.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/networkinformation/libqapplenetworkinformation.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/networkinformation/libqapplenetworkinformation.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/platforminputcontexts/libqtvirtualkeyboardplugin.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqcocoa.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/platforms/libqcocoa.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqminimal.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/platforms/libqminimal.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/platforms/libqoffscreen.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/styles/libqmacstyle.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/styles/libqmacstyle.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/tls/libqcertonlybackend.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/tls/libqcertonlybackend.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/tls/libqopensslbackend.dylib',
+   'BINARY'),
+  ('PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/plugins/tls/libqsecuretransportbackend.dylib',
+   'BINARY'),
+  ('PySide6/Qt/translations/qt_ar.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_bg.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ca.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_cs.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_da.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_de.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_en.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_es.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fa.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_fa.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fi.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_fi.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_fr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_gd.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_gd.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_gl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_gl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_he.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_he.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ar.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_bg.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ca.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_cs.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_da.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_de.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_en.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_es.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_fr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_gl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_gl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_hr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_hu.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_it.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ja.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ka.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ka.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ko.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ko.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_nl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_nl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_nn.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_pl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_pt_BR.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_ru.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_ru.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_sk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_sl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_sl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_sv.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_sv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_tr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_tr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_uk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_zh_CN.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_help_zh_TW.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_help_zh_TW.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_hr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_hu.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_it.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ja.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ka.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ka.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ko.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ko.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_lg.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_lg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_lt.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_lt.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_lv.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_lv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_nl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_nl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_nn.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pt_BR.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_pt_PT.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_pt_PT.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_ru.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_ru.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_sk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_sl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_sl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_sv.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_sv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_tr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_tr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_uk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_zh_CN.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qt_zh_TW.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qt_zh_TW.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ar.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ar.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_bg.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_bg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ca.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ca.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_cs.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_cs.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_da.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_da.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_de.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_de.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_en.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_en.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_es.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_es.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fa.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_fa.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fi.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_fi.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_fr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_fr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_gd.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_gd.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_he.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_he.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_hr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_hr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_hu.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_hu.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_it.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_it.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ja.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ja.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ka.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ka.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ko.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ko.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_lg.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_lg.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_lv.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_lv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_nl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_nl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_nn.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_nn.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_pl.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_pl.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_pt_BR.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_pt_BR.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_ru.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_ru.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_sk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_sk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_sv.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_sv.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_tr.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_tr.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_uk.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_uk.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_zh_CN.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_zh_CN.qm',
+   'DATA'),
+  ('PySide6/Qt/translations/qtbase_zh_TW.qm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/Qt/translations/qtbase_zh_TW.qm',
+   'DATA'),
+  ('PySide6/QtCore.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/QtCore.abi3.so',
+   'EXTENSION'),
+  ('PySide6/QtDBus.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/QtDBus.abi3.so',
+   'EXTENSION'),
+  ('PySide6/QtGui.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/QtGui.abi3.so',
+   'EXTENSION'),
+  ('PySide6/QtNetwork.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/QtNetwork.abi3.so',
+   'EXTENSION'),
+  ('PySide6/QtWidgets.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/QtWidgets.abi3.so',
+   'EXTENSION'),
+  ('PySide6/libpyside6.abi3.6.10.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/PySide6/libpyside6.abi3.6.10.dylib',
+   'BINARY'),
+  ('Python3', 'Python3.framework/Versions/3.9/Python3', 'SYMLINK'),
+  ('Python3.framework/Python3', 'Versions/Current/Python3', 'SYMLINK'),
+  ('Python3.framework/Resources', 'Versions/Current/Resources', 'SYMLINK'),
+  ('Python3.framework/Versions/3.9/Python3',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Python3',
+   'BINARY'),
+  ('Python3.framework/Versions/3.9/Resources/Info.plist',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/Resources/Info.plist',
+   'DATA'),
+  ('Python3.framework/Versions/Current', '3.9', 'SYMLINK'),
+  ('QtCore', 'PySide6/Qt/lib/QtCore.framework/Versions/A/QtCore', 'SYMLINK'),
+  ('QtDBus', 'PySide6/Qt/lib/QtDBus.framework/Versions/A/QtDBus', 'SYMLINK'),
+  ('QtGui', 'PySide6/Qt/lib/QtGui.framework/Versions/A/QtGui', 'SYMLINK'),
+  ('QtNetwork',
+   'PySide6/Qt/lib/QtNetwork.framework/Versions/A/QtNetwork',
+   'SYMLINK'),
+  ('QtOpenGL',
+   'PySide6/Qt/lib/QtOpenGL.framework/Versions/A/QtOpenGL',
+   'SYMLINK'),
+  ('QtPdf', 'PySide6/Qt/lib/QtPdf.framework/Versions/A/QtPdf', 'SYMLINK'),
+  ('QtQml', 'PySide6/Qt/lib/QtQml.framework/Versions/A/QtQml', 'SYMLINK'),
+  ('QtQmlMeta',
+   'PySide6/Qt/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta',
+   'SYMLINK'),
+  ('QtQmlModels',
+   'PySide6/Qt/lib/QtQmlModels.framework/Versions/A/QtQmlModels',
+   'SYMLINK'),
+  ('QtQmlWorkerScript',
+   'PySide6/Qt/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript',
+   'SYMLINK'),
+  ('QtQuick', 'PySide6/Qt/lib/QtQuick.framework/Versions/A/QtQuick', 'SYMLINK'),
+  ('QtSvg', 'PySide6/Qt/lib/QtSvg.framework/Versions/A/QtSvg', 'SYMLINK'),
+  ('QtVirtualKeyboard',
+   'PySide6/Qt/lib/QtVirtualKeyboard.framework/Versions/A/QtVirtualKeyboard',
+   'SYMLINK'),
+  ('QtVirtualKeyboardQml',
+   'PySide6/Qt/lib/QtVirtualKeyboardQml.framework/Versions/A/QtVirtualKeyboardQml',
+   'SYMLINK'),
+  ('QtWidgets',
+   'PySide6/Qt/lib/QtWidgets.framework/Versions/A/QtWidgets',
+   'SYMLINK'),
+  ('_cffi_backend.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/_cffi_backend.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('_sounddevice_data/portaudio-binaries/README.md',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/_sounddevice_data/portaudio-binaries/README.md',
+   'DATA'),
+  ('_sounddevice_data/portaudio-binaries/libportaudio.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/_sounddevice_data/portaudio-binaries/libportaudio.dylib',
+   'BINARY'),
+  ('attrs-26.1.0.dist-info/INSTALLER',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/attrs-26.1.0.dist-info/INSTALLER',
+   'DATA'),
+  ('attrs-26.1.0.dist-info/METADATA',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/attrs-26.1.0.dist-info/METADATA',
+   'DATA'),
+  ('attrs-26.1.0.dist-info/RECORD',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/attrs-26.1.0.dist-info/RECORD',
+   'DATA'),
+  ('attrs-26.1.0.dist-info/WHEEL',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/attrs-26.1.0.dist-info/WHEEL',
+   'DATA'),
+  ('attrs-26.1.0.dist-info/licenses/LICENSE',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/attrs-26.1.0.dist-info/licenses/LICENSE',
+   'DATA'),
+  ('base_library.zip',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/build/NDIMediaPipeBridge/base_library.zip',
+   'DATA'),
+  ('certifi/cacert.pem',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/certifi/cacert.pem',
+   'DATA'),
+  ('certifi/py.typed',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/certifi/py.typed',
+   'DATA'),
+  ('contourpy/_contourpy.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/contourpy/_contourpy.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cv2/.dylibs/libSvtAv1Enc.2.2.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libSvtAv1Enc.2.2.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libX11.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libX11.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libXau.6.0.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libXau.6.0.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libXdmcp.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libXdmcp.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libaom.3.11.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libaom.3.11.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libarchive.13.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libarchive.13.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libaribb24.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libaribb24.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libavcodec.61.19.100.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libavcodec.61.19.100.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libavformat.61.7.100.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libavformat.61.7.100.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libavutil.59.39.100.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libavutil.59.39.100.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libb2.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libb2.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libbluray.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libbluray.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libbrotlicommon.1.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libbrotlicommon.1.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libbrotlidec.1.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libbrotlidec.1.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libbrotlienc.1.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libbrotlienc.1.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libcjson.1.7.18.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libcjson.1.7.18.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libcrypto.3.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libcrypto.3.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libdav1d.7.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libdav1d.7.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libfontconfig.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libfontconfig.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libfreetype.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libfreetype.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libgif.7.2.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libgif.7.2.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libgmp.10.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libgmp.10.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libgnutls.30.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libgnutls.30.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libhogweed.6.9.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libhogweed.6.9.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libhwy.1.2.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libhwy.1.2.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libidn2.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libidn2.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libintl.8.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libintl.8.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libjpeg.8.3.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libjpeg.8.3.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libjxl.0.11.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libjxl.0.11.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libjxl_cms.0.11.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libjxl_cms.0.11.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libjxl_threads.0.11.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libjxl_threads.0.11.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/liblcms2.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/liblcms2.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libleptonica.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libleptonica.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/liblz4.1.10.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/liblz4.1.10.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/liblzma.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/liblzma.5.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libmbedcrypto.3.6.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libmbedcrypto.3.6.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libmp3lame.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libmp3lame.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libnettle.8.9.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libnettle.8.9.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libogg.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libogg.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libopencore-amrnb.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libopencore-amrnb.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libopencore-amrwb.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libopencore-amrwb.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libopenjp2.2.5.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libopenjp2.2.5.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libopus.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libopus.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libp11-kit.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libp11-kit.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libpng16.16.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libpng16.16.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/librav1e.0.7.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/librav1e.0.7.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/librist.4.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/librist.4.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libsharpyuv.0.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libsharpyuv.0.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libsnappy.1.2.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libsnappy.1.2.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libsodium.26.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libsodium.26.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libsoxr.0.1.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libsoxr.0.1.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libspeex.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libspeex.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libsrt.1.5.4.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libsrt.1.5.4.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libssh.4.10.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libssh.4.10.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libssl.3.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libssl.3.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libswresample.5.3.100.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libswresample.5.3.100.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libswscale.8.3.100.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libswscale.8.3.100.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libtasn1.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libtasn1.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libtesseract.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libtesseract.5.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libtheoradec.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libtheoradec.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libtheoraenc.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libtheoraenc.1.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libtiff.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libtiff.6.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libunistring.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libunistring.5.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libvmaf.3.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libvmaf.3.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libvorbis.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libvorbis.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libvorbisenc.2.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libvorbisenc.2.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libvpx.9.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libvpx.9.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libwebp.7.1.9.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libwebp.7.1.9.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libwebpmux.3.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libwebpmux.3.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libx264.164.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libx264.164.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libx265.212.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libx265.212.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libxcb.1.1.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libxcb.1.1.0.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libzmq.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libzmq.5.dylib',
+   'BINARY'),
+  ('cv2/.dylibs/libzstd.1.5.6.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/.dylibs/libzstd.1.5.6.dylib',
+   'BINARY'),
+  ('cv2/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/__init__.py',
+   'DATA'),
+  ('cv2/config-3.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/config-3.py',
+   'DATA'),
+  ('cv2/config.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/config.py',
+   'DATA'),
+  ('cv2/cv2.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/cv2.abi3.so',
+   'EXTENSION'),
+  ('cv2/data/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/data/__init__.py',
+   'DATA'),
+  ('cv2/gapi/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/gapi/__init__.py',
+   'DATA'),
+  ('cv2/load_config_py3.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/load_config_py3.py',
+   'DATA'),
+  ('cv2/mat_wrapper/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/mat_wrapper/__init__.py',
+   'DATA'),
+  ('cv2/misc/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/misc/__init__.py',
+   'DATA'),
+  ('cv2/misc/version.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/misc/version.py',
+   'DATA'),
+  ('cv2/typing/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/typing/__init__.py',
+   'DATA'),
+  ('cv2/utils/__init__.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/utils/__init__.py',
+   'DATA'),
+  ('cv2/version.py',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cv2/version.py',
+   'DATA'),
+  ('cyndilib/.dylibs/libndi.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/.dylibs/libndi.dylib',
+   'BINARY'),
+  ('cyndilib/audio_frame.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/audio_frame.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/audio_reference.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/audio_reference.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/callback.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/callback.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/finder.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/finder.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/framesync.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/framesync.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/locks.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/locks.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/metadata_frame.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/metadata_frame.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/receiver.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/receiver.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/sender.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/sender.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/video_frame.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/video_frame.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/wrapper/ndi_recv.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/wrapper/ndi_recv.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('cyndilib/wrapper/ndi_structs.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/cyndilib/wrapper/ndi_structs.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('dateutil/zoneinfo/dateutil-zoneinfo.tar.gz',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/dateutil/zoneinfo/dateutil-zoneinfo.tar.gz',
+   'DATA'),
+  ('kiwisolver/_cext.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/kiwisolver/_cext.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('libSvtAv1Enc.2.2.0.dylib',
+   'cv2/.dylibs/libSvtAv1Enc.2.2.0.dylib',
+   'SYMLINK'),
+  ('libX11.6.dylib', 'cv2/.dylibs/libX11.6.dylib', 'SYMLINK'),
+  ('libXau.6.0.0.dylib', 'cv2/.dylibs/libXau.6.0.0.dylib', 'SYMLINK'),
+  ('libXau.6.dylib', 'PIL/.dylibs/libXau.6.dylib', 'SYMLINK'),
+  ('libXdmcp.6.dylib', 'cv2/.dylibs/libXdmcp.6.dylib', 'SYMLINK'),
+  ('libaom.3.11.0.dylib', 'cv2/.dylibs/libaom.3.11.0.dylib', 'SYMLINK'),
+  ('libarchive.13.dylib', 'cv2/.dylibs/libarchive.13.dylib', 'SYMLINK'),
+  ('libaribb24.0.dylib', 'cv2/.dylibs/libaribb24.0.dylib', 'SYMLINK'),
+  ('libavcodec.61.19.100.dylib',
+   'cv2/.dylibs/libavcodec.61.19.100.dylib',
+   'SYMLINK'),
+  ('libavformat.61.7.100.dylib',
+   'cv2/.dylibs/libavformat.61.7.100.dylib',
+   'SYMLINK'),
+  ('libavif.16.3.0.dylib', 'PIL/.dylibs/libavif.16.3.0.dylib', 'SYMLINK'),
+  ('libavutil.59.39.100.dylib',
+   'cv2/.dylibs/libavutil.59.39.100.dylib',
+   'SYMLINK'),
+  ('libb2.1.dylib', 'cv2/.dylibs/libb2.1.dylib', 'SYMLINK'),
+  ('libbluray.2.dylib', 'cv2/.dylibs/libbluray.2.dylib', 'SYMLINK'),
+  ('libbrotlicommon.1.1.0.dylib',
+   'cv2/.dylibs/libbrotlicommon.1.1.0.dylib',
+   'SYMLINK'),
+  ('libbrotlidec.1.1.0.dylib',
+   'cv2/.dylibs/libbrotlidec.1.1.0.dylib',
+   'SYMLINK'),
+  ('libbrotlienc.1.1.0.dylib',
+   'cv2/.dylibs/libbrotlienc.1.1.0.dylib',
+   'SYMLINK'),
+  ('libcjson.1.7.18.dylib', 'cv2/.dylibs/libcjson.1.7.18.dylib', 'SYMLINK'),
+  ('libcrypto.3.dylib', 'cv2/.dylibs/libcrypto.3.dylib', 'SYMLINK'),
+  ('libdav1d.7.dylib', 'cv2/.dylibs/libdav1d.7.dylib', 'SYMLINK'),
+  ('libfontconfig.1.dylib', 'cv2/.dylibs/libfontconfig.1.dylib', 'SYMLINK'),
+  ('libfreetype.6.dylib', 'cv2/.dylibs/libfreetype.6.dylib', 'SYMLINK'),
+  ('libgcc_s.1.1.dylib', 'numpy/.dylibs/libgcc_s.1.1.dylib', 'SYMLINK'),
+  ('libgfortran.5.dylib', 'numpy/.dylibs/libgfortran.5.dylib', 'SYMLINK'),
+  ('libgif.7.2.0.dylib', 'cv2/.dylibs/libgif.7.2.0.dylib', 'SYMLINK'),
+  ('libgmp.10.dylib', 'cv2/.dylibs/libgmp.10.dylib', 'SYMLINK'),
+  ('libgnutls.30.dylib', 'cv2/.dylibs/libgnutls.30.dylib', 'SYMLINK'),
+  ('libhogweed.6.9.dylib', 'cv2/.dylibs/libhogweed.6.9.dylib', 'SYMLINK'),
+  ('libhwy.1.2.0.dylib', 'cv2/.dylibs/libhwy.1.2.0.dylib', 'SYMLINK'),
+  ('libidn2.0.dylib', 'cv2/.dylibs/libidn2.0.dylib', 'SYMLINK'),
+  ('libintl.8.dylib', 'cv2/.dylibs/libintl.8.dylib', 'SYMLINK'),
+  ('libjpeg.62.4.0.dylib', 'PIL/.dylibs/libjpeg.62.4.0.dylib', 'SYMLINK'),
+  ('libjpeg.8.3.2.dylib', 'cv2/.dylibs/libjpeg.8.3.2.dylib', 'SYMLINK'),
+  ('libjxl.0.11.1.dylib', 'cv2/.dylibs/libjxl.0.11.1.dylib', 'SYMLINK'),
+  ('libjxl_cms.0.11.1.dylib', 'cv2/.dylibs/libjxl_cms.0.11.1.dylib', 'SYMLINK'),
+  ('libjxl_threads.0.11.1.dylib',
+   'cv2/.dylibs/libjxl_threads.0.11.1.dylib',
+   'SYMLINK'),
+  ('liblcms2.2.dylib', 'PIL/.dylibs/liblcms2.2.dylib', 'SYMLINK'),
+  ('libleptonica.6.dylib', 'cv2/.dylibs/libleptonica.6.dylib', 'SYMLINK'),
+  ('liblz4.1.10.0.dylib', 'cv2/.dylibs/liblz4.1.10.0.dylib', 'SYMLINK'),
+  ('liblzma.5.dylib', 'PIL/.dylibs/liblzma.5.dylib', 'SYMLINK'),
+  ('libmbedcrypto.3.6.2.dylib',
+   'cv2/.dylibs/libmbedcrypto.3.6.2.dylib',
+   'SYMLINK'),
+  ('libmp3lame.0.dylib', 'cv2/.dylibs/libmp3lame.0.dylib', 'SYMLINK'),
+  ('libndi.dylib', 'cyndilib/.dylibs/libndi.dylib', 'SYMLINK'),
+  ('libnettle.8.9.dylib', 'cv2/.dylibs/libnettle.8.9.dylib', 'SYMLINK'),
+  ('libogg.0.dylib', 'cv2/.dylibs/libogg.0.dylib', 'SYMLINK'),
+  ('libopenblas64_.0.dylib', 'numpy/.dylibs/libopenblas64_.0.dylib', 'SYMLINK'),
+  ('libopencore-amrnb.0.dylib',
+   'cv2/.dylibs/libopencore-amrnb.0.dylib',
+   'SYMLINK'),
+  ('libopencore-amrwb.0.dylib',
+   'cv2/.dylibs/libopencore-amrwb.0.dylib',
+   'SYMLINK'),
+  ('libopenjp2.2.5.2.dylib', 'cv2/.dylibs/libopenjp2.2.5.2.dylib', 'SYMLINK'),
+  ('libopenjp2.2.5.3.dylib', 'PIL/.dylibs/libopenjp2.2.5.3.dylib', 'SYMLINK'),
+  ('libopus.0.dylib', 'cv2/.dylibs/libopus.0.dylib', 'SYMLINK'),
+  ('libp11-kit.0.dylib', 'cv2/.dylibs/libp11-kit.0.dylib', 'SYMLINK'),
+  ('libpng16.16.dylib', 'cv2/.dylibs/libpng16.16.dylib', 'SYMLINK'),
+  ('libpyside6.abi3.6.10.dylib',
+   'PySide6/libpyside6.abi3.6.10.dylib',
+   'SYMLINK'),
+  ('libquadmath.0.dylib', 'numpy/.dylibs/libquadmath.0.dylib', 'SYMLINK'),
+  ('librav1e.0.7.1.dylib', 'cv2/.dylibs/librav1e.0.7.1.dylib', 'SYMLINK'),
+  ('librist.4.dylib', 'cv2/.dylibs/librist.4.dylib', 'SYMLINK'),
+  ('libsharpyuv.0.1.0.dylib', 'cv2/.dylibs/libsharpyuv.0.1.0.dylib', 'SYMLINK'),
+  ('libsharpyuv.0.dylib', 'PIL/.dylibs/libsharpyuv.0.dylib', 'SYMLINK'),
+  ('libshiboken6.abi3.6.10.dylib',
+   'shiboken6/libshiboken6.abi3.6.10.dylib',
+   'SYMLINK'),
+  ('libsnappy.1.2.1.dylib', 'cv2/.dylibs/libsnappy.1.2.1.dylib', 'SYMLINK'),
+  ('libsodium.26.dylib', 'cv2/.dylibs/libsodium.26.dylib', 'SYMLINK'),
+  ('libsoxr.0.1.2.dylib', 'cv2/.dylibs/libsoxr.0.1.2.dylib', 'SYMLINK'),
+  ('libspeex.1.dylib', 'cv2/.dylibs/libspeex.1.dylib', 'SYMLINK'),
+  ('libsrt.1.5.4.dylib', 'cv2/.dylibs/libsrt.1.5.4.dylib', 'SYMLINK'),
+  ('libssh.4.10.1.dylib', 'cv2/.dylibs/libssh.4.10.1.dylib', 'SYMLINK'),
+  ('libssl.3.dylib', 'cv2/.dylibs/libssl.3.dylib', 'SYMLINK'),
+  ('libswresample.5.3.100.dylib',
+   'cv2/.dylibs/libswresample.5.3.100.dylib',
+   'SYMLINK'),
+  ('libswscale.8.3.100.dylib',
+   'cv2/.dylibs/libswscale.8.3.100.dylib',
+   'SYMLINK'),
+  ('libtasn1.6.dylib', 'cv2/.dylibs/libtasn1.6.dylib', 'SYMLINK'),
+  ('libtesseract.5.dylib', 'cv2/.dylibs/libtesseract.5.dylib', 'SYMLINK'),
+  ('libtheoradec.1.dylib', 'cv2/.dylibs/libtheoradec.1.dylib', 'SYMLINK'),
+  ('libtheoraenc.1.dylib', 'cv2/.dylibs/libtheoraenc.1.dylib', 'SYMLINK'),
+  ('libtiff.6.dylib', 'PIL/.dylibs/libtiff.6.dylib', 'SYMLINK'),
+  ('libunistring.5.dylib', 'cv2/.dylibs/libunistring.5.dylib', 'SYMLINK'),
+  ('libvmaf.3.dylib', 'cv2/.dylibs/libvmaf.3.dylib', 'SYMLINK'),
+  ('libvorbis.0.dylib', 'cv2/.dylibs/libvorbis.0.dylib', 'SYMLINK'),
+  ('libvorbisenc.2.dylib', 'cv2/.dylibs/libvorbisenc.2.dylib', 'SYMLINK'),
+  ('libvpx.9.dylib', 'cv2/.dylibs/libvpx.9.dylib', 'SYMLINK'),
+  ('libwebp.7.1.9.dylib', 'cv2/.dylibs/libwebp.7.1.9.dylib', 'SYMLINK'),
+  ('libwebp.7.dylib', 'PIL/.dylibs/libwebp.7.dylib', 'SYMLINK'),
+  ('libwebpdemux.2.dylib', 'PIL/.dylibs/libwebpdemux.2.dylib', 'SYMLINK'),
+  ('libwebpmux.3.1.0.dylib', 'cv2/.dylibs/libwebpmux.3.1.0.dylib', 'SYMLINK'),
+  ('libwebpmux.3.dylib', 'PIL/.dylibs/libwebpmux.3.dylib', 'SYMLINK'),
+  ('libx264.164.dylib', 'cv2/.dylibs/libx264.164.dylib', 'SYMLINK'),
+  ('libx265.212.dylib', 'cv2/.dylibs/libx265.212.dylib', 'SYMLINK'),
+  ('libxcb.1.1.0.dylib', 'PIL/.dylibs/libxcb.1.1.0.dylib', 'SYMLINK'),
+  ('libz.1.3.1.zlib-ng.dylib',
+   'PIL/.dylibs/libz.1.3.1.zlib-ng.dylib',
+   'SYMLINK'),
+  ('libzmq.5.dylib', 'cv2/.dylibs/libzmq.5.dylib', 'SYMLINK'),
+  ('libzstd.1.5.6.dylib', 'cv2/.dylibs/libzstd.1.5.6.dylib', 'SYMLINK'),
+  ('matplotlib/_c_internal_utils.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/_c_internal_utils.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/_image.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/_image.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/_path.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/_path.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/_qhull.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/_qhull.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/_tri.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/_tri.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/backends/_backend_agg.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/backends/_backend_agg.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/backends/_macosx.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/backends/_macosx.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/ft2font.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/ft2font.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('matplotlib/mpl-data/fonts/afm/cmex10.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/cmex10.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/cmmi10.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/cmmi10.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/cmr10.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/cmr10.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/cmsy10.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/cmsy10.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/cmtt10.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/cmtt10.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pagd8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pagd8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pagdo8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pagdo8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pagk8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pagk8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pagko8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pagko8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pbkd8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pbkd8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pbkdi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pbkdi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pbkl8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pbkl8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pbkli8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pbkli8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pcrb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pcrb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pcrbo8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pcrbo8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pcrr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pcrr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pcrro8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pcrro8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvb8an.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvb8an.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvbo8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvbo8an.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvbo8an.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvl8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvl8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvlo8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvlo8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvr8an.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvr8an.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvro8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvro8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/phvro8an.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/phvro8an.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pncb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pncb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pncbi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pncbi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pncr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pncr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pncri8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pncri8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pplb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pplb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pplbi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pplbi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pplr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pplr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pplri8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pplri8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/psyr.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/psyr.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/ptmb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/ptmb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/ptmbi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/ptmbi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/ptmr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/ptmr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/ptmri8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/ptmri8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/putb8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/putb8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/putbi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/putbi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/putr8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/putr8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/putri8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/putri8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pzcmi8a.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pzcmi8a.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/afm/pzdr.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/afm/pzdr.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Bold.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier-Oblique.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Courier.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Bold.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-BoldOblique.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica-Oblique.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Helvetica.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Symbol.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Bold.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-BoldItalic.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Italic.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/Times-Roman.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/ZapfDingbats.afm',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/pdfcorefonts/readme.txt',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/pdfcorefonts/readme.txt',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Bold.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans-Oblique.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSans.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansDisplay.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Bold.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-BoldOblique.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono-Oblique.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSansMono.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Bold.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-BoldItalic.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif-Italic.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerif.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/DejaVuSerifDisplay.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/LICENSE_DEJAVU',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/LICENSE_DEJAVU',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/LICENSE_STIX',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/LICENSE_STIX',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneral.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralBolIta.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXGeneralItalic.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUni.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniBolIta.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXNonUniIta.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFiveSymReg.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizFourSymReg.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizOneSymReg.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizThreeSymReg.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymBol.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/STIXSizTwoSymReg.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmb10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmb10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmex10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmex10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmmi10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmmi10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmr10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmr10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmss10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmss10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmsy10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmsy10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/fonts/ttf/cmtt10.ttf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/fonts/ttf/cmtt10.ttf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/back-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/back-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/back.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/back.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/back.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/back.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/back.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/back.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/back_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/back_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/filesave-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/filesave-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/filesave.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/filesave.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/filesave.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/filesave.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/filesave.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/filesave.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/filesave_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/filesave_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/forward-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/forward-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/forward.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/forward.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/forward.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/forward.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/forward.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/forward.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/forward_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/forward_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/hand.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/hand.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/hand.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/hand.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/hand.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/hand.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/help-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/help-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/help.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/help.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/help.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/help.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/help.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/help.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/help_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/help_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/home-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/home-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/home.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/home.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/home.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/home.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/home.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/home.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/home_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/home_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/matplotlib.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/matplotlib.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/matplotlib.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/matplotlib.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/matplotlib.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/matplotlib.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/matplotlib_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/matplotlib_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/move-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/move-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/move.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/move.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/move.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/move.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/move.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/move.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/move_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/move_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/qt4_editor_options.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/qt4_editor_options.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/qt4_editor_options.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/qt4_editor_options.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/qt4_editor_options.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/qt4_editor_options.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/qt4_editor_options_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/qt4_editor_options_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/subplots-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/subplots.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/subplots.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/subplots.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/subplots_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/subplots_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/zoom_to_rect-symbolic.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect-symbolic.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/zoom_to_rect.pdf',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect.pdf',
+   'DATA'),
+  ('matplotlib/mpl-data/images/zoom_to_rect.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect.png',
+   'DATA'),
+  ('matplotlib/mpl-data/images/zoom_to_rect.svg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect.svg',
+   'DATA'),
+  ('matplotlib/mpl-data/images/zoom_to_rect_large.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/images/zoom_to_rect_large.png',
+   'DATA'),
+  ('matplotlib/mpl-data/kpsewhich.lua',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/kpsewhich.lua',
+   'DATA'),
+  ('matplotlib/mpl-data/matplotlibrc',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/matplotlibrc',
+   'DATA'),
+  ('matplotlib/mpl-data/plot_directive/plot_directive.css',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/plot_directive/plot_directive.css',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/Minduka_Present_Blue_Pack.png',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/README.txt',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/README.txt',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/Stocks.csv',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/Stocks.csv',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/axes_grid/bivariate_normal.npy',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/axes_grid/bivariate_normal.npy',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/data_x_x2_x3.csv',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/data_x_x2_x3.csv',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/eeg.dat',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/eeg.dat',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/embedding_in_wx3.xrc',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/embedding_in_wx3.xrc',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/goog.npz',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/goog.npz',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/grace_hopper.jpg',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/grace_hopper.jpg',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/jacksboro_fault_dem.npz',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/jacksboro_fault_dem.npz',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/logo2.png',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/logo2.png',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/membrane.dat',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/membrane.dat',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/msft.csv',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/msft.csv',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/s1045.ima.gz',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/s1045.ima.gz',
+   'DATA'),
+  ('matplotlib/mpl-data/sample_data/topobathy.npz',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/sample_data/topobathy.npz',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/Solarize_Light2.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/_classic_test_patch.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/_classic_test_patch.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/_mpl-gallery-nogrid.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/_mpl-gallery-nogrid.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/_mpl-gallery.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/_mpl-gallery.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/bmh.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/bmh.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/classic.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/classic.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/dark_background.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/dark_background.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/fast.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/fast.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/fivethirtyeight.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/fivethirtyeight.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/ggplot.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/ggplot.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/grayscale.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/grayscale.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-bright.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-bright.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-colorblind.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-colorblind.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-dark-palette.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-dark-palette.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-dark.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-dark.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-darkgrid.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-darkgrid.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-deep.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-deep.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-muted.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-muted.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-notebook.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-notebook.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-paper.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-paper.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-pastel.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-pastel.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-poster.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-poster.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-talk.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-talk.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-ticks.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-ticks.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-white.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-white.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8-whitegrid.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8-whitegrid.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/seaborn-v0_8.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/seaborn-v0_8.mplstyle',
+   'DATA'),
+  ('matplotlib/mpl-data/stylelib/tableau-colorblind10.mplstyle',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/matplotlib/mpl-data/stylelib/tableau-colorblind10.mplstyle',
+   'DATA'),
+  ('mediapipe/modules/face_detection/face_detection_full_range_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_detection/face_detection_full_range_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/face_detection/face_detection_full_range_sparse.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_detection/face_detection_full_range_sparse.tflite',
+   'DATA'),
+  ('mediapipe/modules/face_detection/face_detection_short_range.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_detection/face_detection_short_range.tflite',
+   'DATA'),
+  ('mediapipe/modules/face_detection/face_detection_short_range_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_detection/face_detection_short_range_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/face_landmark/face_landmark.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_landmark/face_landmark.tflite',
+   'DATA'),
+  ('mediapipe/modules/face_landmark/face_landmark_front_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_landmark/face_landmark_front_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/face_landmark/face_landmark_with_attention.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/face_landmark/face_landmark_with_attention.tflite',
+   'DATA'),
+  ('mediapipe/modules/hand_landmark/hand_landmark_full.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/hand_landmark/hand_landmark_full.tflite',
+   'DATA'),
+  ('mediapipe/modules/hand_landmark/hand_landmark_lite.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/hand_landmark/hand_landmark_lite.tflite',
+   'DATA'),
+  ('mediapipe/modules/hand_landmark/hand_landmark_tracking_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/hand_landmark/hand_landmark_tracking_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/hand_landmark/handedness.txt',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/hand_landmark/handedness.txt',
+   'DATA'),
+  ('mediapipe/modules/holistic_landmark/hand_recrop.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/holistic_landmark/hand_recrop.tflite',
+   'DATA'),
+  ('mediapipe/modules/holistic_landmark/holistic_landmark_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/holistic_landmark/holistic_landmark_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/iris_landmark/iris_landmark.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/iris_landmark/iris_landmark.tflite',
+   'DATA'),
+  ('mediapipe/modules/objectron/object_detection_oidv4_labelmap.txt',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/objectron/object_detection_oidv4_labelmap.txt',
+   'DATA'),
+  ('mediapipe/modules/objectron/objectron_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/objectron/objectron_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/palm_detection/palm_detection_full.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/palm_detection/palm_detection_full.tflite',
+   'DATA'),
+  ('mediapipe/modules/palm_detection/palm_detection_lite.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/palm_detection/palm_detection_lite.tflite',
+   'DATA'),
+  ('mediapipe/modules/pose_detection/pose_detection.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/pose_detection/pose_detection.tflite',
+   'DATA'),
+  ('mediapipe/modules/pose_landmark/pose_landmark_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/pose_landmark/pose_landmark_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/pose_landmark/pose_landmark_full.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/pose_landmark/pose_landmark_full.tflite',
+   'DATA'),
+  ('mediapipe/modules/pose_landmark/pose_landmark_lite.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/pose_landmark/pose_landmark_lite.tflite',
+   'DATA'),
+  ('mediapipe/modules/selfie_segmentation/selfie_segmentation.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/selfie_segmentation/selfie_segmentation.tflite',
+   'DATA'),
+  ('mediapipe/modules/selfie_segmentation/selfie_segmentation_cpu.binarypb',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/selfie_segmentation/selfie_segmentation_cpu.binarypb',
+   'DATA'),
+  ('mediapipe/modules/selfie_segmentation/selfie_segmentation_landscape.tflite',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/modules/selfie_segmentation/selfie_segmentation_landscape.tflite',
+   'DATA'),
+  ('mediapipe/python/_framework_bindings.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/python/_framework_bindings.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('mediapipe/tasks/metadata/image_segmenter_metadata_schema.fbs',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/tasks/metadata/image_segmenter_metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe/tasks/metadata/metadata_schema.fbs',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/tasks/metadata/metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe/tasks/metadata/object_detector_metadata_schema.fbs',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/tasks/metadata/object_detector_metadata_schema.fbs',
+   'DATA'),
+  ('mediapipe/version.txt',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/mediapipe/version.txt',
+   'DATA'),
+  ('numpy/.dylibs/libgcc_s.1.1.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/.dylibs/libgcc_s.1.1.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libgfortran.5.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/.dylibs/libgfortran.5.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libopenblas64_.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/.dylibs/libopenblas64_.0.dylib',
+   'BINARY'),
+  ('numpy/.dylibs/libquadmath.0.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/.dylibs/libquadmath.0.dylib',
+   'BINARY'),
+  ('numpy/core/_multiarray_tests.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/core/_multiarray_tests.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/core/_multiarray_umath.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/core/_multiarray_umath.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/fft/_pocketfft_internal.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/fft/_pocketfft_internal.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/linalg/_umath_linalg.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/linalg/_umath_linalg.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_bounded_integers.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_bounded_integers.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_common.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_common.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_generator.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_generator.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_mt19937.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_mt19937.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_pcg64.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_pcg64.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_philox.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_philox.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/_sfc64.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/_sfc64.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/bit_generator.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/bit_generator.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('numpy/random/mtrand.cpython-39-darwin.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/numpy/random/mtrand.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_asyncio.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_asyncio.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_bisect.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_bisect.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_blake2.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_blake2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_bz2.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_bz2.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_cn.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_hk.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_iso2022.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_jp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_kr.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_codecs_tw.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_contextvars.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_contextvars.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_csv.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_csv.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_ctypes.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_ctypes.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_datetime.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_datetime.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_decimal.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_decimal.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_elementtree.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_elementtree.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_hashlib.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_hashlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_heapq.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_heapq.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_json.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_json.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_lzma.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_lzma.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_md5.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_md5.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_multibytecodec.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_multiprocessing.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_opcode.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_opcode.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_pickle.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_pickle.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_posixshmem.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_posixshmem.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_posixsubprocess.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_queue.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_queue.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_random.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_random.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_scproxy.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_scproxy.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_sha1.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha1.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_sha256.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha256.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_sha3.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha3.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_sha512.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_sha512.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_socket.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_socket.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_ssl.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_ssl.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_statistics.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_statistics.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_struct.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/_uuid.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/_uuid.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/array.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/array.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/binascii.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/binascii.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/grp.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/grp.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/math.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/math.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/mmap.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/mmap.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/pyexpat.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/pyexpat.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/readline.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/readline.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/resource.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/resource.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/select.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/select.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/termios.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/termios.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/unicodedata.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/unicodedata.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   '/Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/lib-dynload/zlib.cpython-39-darwin.so',
+   'EXTENSION'),
+  ('shiboken6/Shiboken.abi3.so',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/shiboken6/Shiboken.abi3.so',
+   'EXTENSION'),
+  ('shiboken6/libshiboken6.abi3.6.10.dylib',
+   '/Users/masteryeeeee/Documents/New '
+   'project/ndi-mediapipe-bridge/.venv/lib/python3.9/site-packages/shiboken6/libshiboken6.abi3.6.10.dylib',
+   'BINARY')],)

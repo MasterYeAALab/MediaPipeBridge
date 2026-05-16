@@ -1,56 +1,78 @@
-# OSC 数据协议
+# OSC 数据协议 (ofxMediaPipe 兼容格式)
 
-除非特别说明，本程序发送的所有空间坐标（X, Y, Z）均为归一化后的浮点数（范围通常为 `0.0` 到 `1.0`）。如果你需要获取屏幕上的实际像素坐标，只需将这些坐标值分别乘以接收端画面的真实宽度和高度即可。
+本项目发送的 OSC 数据遵循 [ofxMediaPipePython](https://github.com/design-io/ofxMediaPipePython) 标准格式，方便直接接入 OpenFrameworks, TouchDesigner, Unreal Engine 等创意编程环境。
 
-## 帧信息 (Frame)
+## 核心设计
+1. **归一化坐标**：除非特别说明，所有空间坐标（X, Y, Z）均为 `0.0` 到 `1.0` 的归一化浮点数。
+2. **扁平化列表 (Flattened List)**：同一对象（如一只手）的所有关键点坐标会打包在一条消息中发送，而不是每个点发一条。
+3. **帧同步 (Frame Sync)**：每条消息的第一个参数均为 **Frame Number**（帧编号），用于在接收端同步不同模型的数据。
+4. **唯一标识 (ID)**：每条消息的第二个参数为对象 **ID**（如第几只手）。
 
-在每一帧画面处理完成并开始发送数据时，会首先发送该帧的基础信息。
+---
 
+## 基础元数据 (Metadata)
+
+### 视频分辨率
+每帧开始时发送，用于接收端进行坐标映射：
 ```text
-/mp/frame [timestamp_ms: int] [width: int] [height: int] [source_name: str]
+/ofxmp/frame/video [x: 0] [y: 0] [width: int] [height: int]
 ```
-如果引擎在处理该帧时抛出异常错误，则会发送错误信息：
+
+### 追踪区域 (ROI)
 ```text
-/mp/error [message: str]
+/ofxmp/frame/faces [x] [y] [w] [h]
+/ofxmp/frame/hands [x] [y] [w] [h]
+/ofxmp/frame/poses [x] [y] [w] [h]
 ```
+
+---
 
 ## 身体骨骼 (Pose)
 
 ```text
-/mp/pose/count [count: int]
-/mp/pose/landmark [person_index: int] [landmark_index: int] [x: float] [y: float] [z: float] [visibility: float] [presence: float]
-/mp/pose/world_landmark [person_index: int] [landmark_index: int] [x: float] [y: float] [z: float] [visibility: float] [presence: float]
+/ofxmp/poses [FrameNum: int] [ID: int] [x0, y0, z0, x1, y1, z1, ...]
+/ofxmp/posesW [FrameNum: int] [ID: int] [x0, y0, z0, x1, y1, z1, ...]
 ```
-*注：当前版本的 MediaPipe 骨骼追踪模块仅支持输出 1 个人（即 count 永远为 1，person_index 永远为 0）。其中 `world_landmark` 表示真实世界的三维坐标系，其单位为米（m）。*
+- **关键点数量**：33 个（总共 99 个浮点坐标）。
+- **W 后缀**：表示 World Landmarks（真实世界三维坐标，单位为米）。
+- **多人支持**：当前版本主要支持 1 人追踪，但已预留多人数据接口。
+
+---
 
 ## 手部追踪 (Hands)
 
 ```text
-/mp/hands/count [count: int]
-/mp/hands/handedness [hand_index: int] [label: str] [score: float]
-/mp/hands/landmark [hand_index: int] [landmark_index: int] [x: float] [y: float] [z: float] [visibility: float] [presence: float]
+/ofxmp/hands [FrameNum: int] [ID: int] [x0, y0, z0, x1, y1, z1, ...]
+/ofxmp/hand/label [FrameNum: int] [ID: int] [label: str]
+/ofxmp/hand/score [FrameNum: int] [ID: int] [score: float]
 ```
-*注：`label` 通常返回字符串 `Left`（左手）或 `Right`（右手）。程序最多支持同时追踪画面内的两只手。*
+- **关键点数量**：21 个（总共 63 个浮点坐标）。
+- **多人支持**：支持同时追踪画面中多达 **4** 只手。
+- **label**：`Left` 或 `Right`。
+
+---
 
 ## 面部网格 (Face Mesh)
 
 ```text
-/mp/face_mesh/count [count: int]
-/mp/face_mesh/landmark [face_index: int] [landmark_index: int] [x: float] [y: float] [z: float] [visibility: float] [presence: float]
+/ofxmp/faces [FrameNum: int] [ID: int] [x0, y0, z0, x1, y1, z1, ...]
 ```
-*注：该模块会输出一张脸上多达 468 个极其细腻的三维特征点坐标。*
+- **关键点数量**：468 个（总共 1404 个浮点坐标）。
+- **多人支持**：支持同时追踪多达 **4** 张脸。
+
+---
 
 ## 人脸检测 (Face Detection)
 
 ```text
-/mp/face_detection/count [count: int]
-/mp/face_detection/box [face_index: int] [score: float] [xmin: float] [ymin: float] [width: float] [height: float]
+/ofxmp/face/box [FrameNum: int] [ID: int] [score: float] [xmin] [ymin] [w] [h]
 ```
-*注：输出的检测框（box）所有四个参数均是相对于当前输入画面的归一化数值。*
+
+---
 
 ## 自拍抠像 (Selfie Segmentation)
 
 ```text
-/mp/selfie_segmentation/foreground_coverage [value: float]
+/ofxmp/selfie_segmentation/foreground_coverage [value: float]
 ```
-*注：`value` 的范围是 `0.0` 到 `1.0`，它代表当前画面中被 AI 判定为“人（前景）”的像素，占整个画面总像素数量的百分比。你可以用这个数值在其他软件中制作“当人走出画面时触发事件”等交互逻辑。*
+- `value`: 前景像素占比 (0.0 - 1.0)。

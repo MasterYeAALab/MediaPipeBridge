@@ -1,0 +1,94 @@
+Metadata-Version: 2.1
+Name: mediapipe-bridge
+Version: 0.1.0
+Summary: Cross-platform GUI bridge for camera/NDI input, MediaPipe tracking, OSC data, and NDI video output.
+Requires-Python: >=3.9,<3.13
+Description-Content-Type: text/markdown
+Provides-Extra: ndi
+Provides-Extra: dev
+
+# MediaPipe Bridge
+
+跨平台的桌面端桥接应用，提供以下功能：
+
+- 获取本地摄像头画面（可自定义分辨率和帧率）
+- 接收局域网内的 NDI 视频流输入
+- 实时通过 MediaPipe 进行 AI 视觉追踪和检测
+- 支持将原始摄像头画面直接输出为 NDI 视频流
+- 支持将经过 AI 处理的画面（包含追踪辅助线，或透明背景抠像）输出为 NDI 视频流
+- 通过 OSC 协议将追踪坐标数据实时发送给其他软件（如 TouchDesigner, Unreal, Unity 等）
+
+本项目使用 Python 和 Qt 构建，能够在 macOS、Windows 和 Linux 上跨平台运行。
+
+## 核心功能
+
+支持在界面中随时开关的 MediaPipe 功能模块：
+
+- **Pose**: 身体骨骼追踪（当前支持单人精细追踪，数据结构已兼容多人输出）
+- **Hands**: 手部追踪及左右手识别（支持同时追踪多达 **4** 只手）
+- **Face Mesh**: 面部网格追踪（支持同时追踪多达 **4** 张脸）
+- **Face Detection**: 人脸检测
+- **Segmentation**: 实时自拍抠像（勾选此项且开启 NDI 画面输出时，NDI 画面将带有 Alpha 透明通道的纯净背景）
+- **性能及画质优化选项**: 
+  - **Model (Fast / Balanced)**：快速模型与高精度模型切换（影响抠像边缘及追踪细节）。
+  - **Process Scale**: 图像处理降采样。将该值调低可大幅降低 CPU/GPU 压力并提升帧率，且不会影响最终 NDI 输出画面的分辨率。
+  - **Delegate**: 强制 CPU 或 GPU 硬件加速。
+
+数据及画面输出：
+
+- 通过 UDP 实时发送所有的追踪坐标 OSC 数据
+- 以 NDI 流的形式输出处理后的视频画面
+- 在摄像头输入模式下，可同步无损输出原始的摄像头 NDI 流
+
+## 安装指南
+
+请确保你的电脑已安装 **Python 3.9 - 3.12** 之间的版本。
+
+```bash
+# 1. 进入项目根目录
+cd "你的项目路径/mediapipe-bridge"
+
+# 2. 创建一个虚拟环境
+python3 -m venv .venv
+
+# 3. 激活虚拟环境
+# Mac / Linux 系统运行:
+source .venv/bin/activate
+# Windows 系统运行:
+.venv\Scripts\activate
+
+# 4. 更新基础构建工具
+python -m pip install --upgrade pip setuptools wheel
+
+# 5. 安装程序及其依赖库（包含 [ndi] 以启用 NDI 支持）
+python -m pip install ".[ndi]"
+```
+
+## 启动程序
+
+每次运行前，请先进入目录并激活虚拟环境：
+
+```bash
+# 激活环境 (Mac/Linux)
+source .venv/bin/activate
+
+# 运行程序
+python -m mediapipe_bridge
+```
+
+## 操作指南
+
+1. **输入设置 (Input)**：在 `Mode` 中选择 `Camera`（本地摄像头）或 `NDI`（网络输入源）。
+   - 摄像头模式：点击 `Refresh` 刷新列表并选择设备，你可以手动强制指定采集的分辨率与帧率。
+   - NDI 模式：点击 `Refresh` 并从下拉菜单中选择局域网内的 NDI 源。
+2. **MediaPipe 设置**：勾选你需要开启的视觉追踪模块。如果你只需要干净的透明抠像画面通过 NDI 发送，可以在这里取消勾选所有其他模块及 `Draw overlays`。
+3. **OSC 设置**：勾选 `Send OSC` 并填入接收端软件所在的 IP 地址和端口号。
+4. **NDI 输出**：按需勾选下方 NDI 视频流输出，可自定义输出在局域网中的频道名称，以及画面缩放比例（Output Scale）。
+5. 点击 **Start** 启动处理管线。
+
+*提示：所有的选项只有在每次点击 Start 时才会被加载。如需修改任何参数，请先点击 Stop，修改完毕后再点击 Start 应用。*
+
+## OSC 数据协议
+
+请查阅 [docs/OSC.md](docs/OSC.md) 获取详细的路径地址和数据格式说明。
+![]()
